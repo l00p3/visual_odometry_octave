@@ -1,0 +1,5 @@
+1. Esegui il tutto con ground truth e verifica che l'errore sia zero
+2. Esegui con rumore calcolando bene tutti gli errori, magari in una tabella
+3. Aggiungi update ad ogni misurazione e controlla differenza di errori
+4. Loop checking (?)
+5. Data association...
